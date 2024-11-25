@@ -21,7 +21,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-- [MobiCom 2024]<br> Best Runner-up Demo Awards<br>[EmbodiedRDA: Connecting Foundation Models with the Physical World using Reconfigurable Drone Agents]<br>Minghui Zhao, Kaiyuan Hou, **Junxi Xia** , Stephen Xia , Xiaofan Jiang, Columbia University
+- [MobiCom 2024]<br> Best Runner-up Demo Awards<br>EmbodiedRDA: Connecting Foundation Models with the Physical World using Reconfigurable Drone Agents<br>Minghui Zhao, Kaiyuan Hou, **Junxi Xia** , Stephen Xia , Xiaofan Jiang, Columbia University<br>Nov, 2024
 
 <br>
 
